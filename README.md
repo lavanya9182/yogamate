@@ -2,7 +2,7 @@
 **HATHA YOGA**
 
 **1.VRIKSHASANA(Tree Pose)**
-##Critical Angles:
+***Critical Angles:**
 - Standing Leg (Knee Joint): ~180° (straight but not locked) 
 - Raised Leg (Knee Bend): ~45°-60° (depending on flexibility)
 - Hip Angle (Raised Leg to Standing Leg): ~90°
