@@ -2,7 +2,7 @@
 **HATHA YOGA**
 
 **1.VRIKSHASANA(Tree Pose)**
-- ***Critical Angles:**
+- ***Critical Angles:***
 - Standing Leg (Knee Joint): ~180° (straight but not locked) 
 - Raised Leg (Knee Bend): ~45°-60° (depending on flexibility)
 - Hip Angle (Raised Leg to Standing Leg): ~90°
@@ -51,11 +51,11 @@
 
 **4.Bridge Pose (Setu Bandha Sarvangasana)**
 - ***Critical Angles:***
-Knees: 90° (like sitting in a chair)
-Back lift: 30-45° (like a bridge going up)
-Feet: Flat on ground, hip-width apart
-Arms: Slightly away (15-20°) from body
-Head: Almost flat (0-5°), chin tucked slightly
+- Knees: 90° (like sitting in a chair)
+- Back lift: 30-45° (like a bridge going up)
+- Feet: Flat on ground, hip-width apart
+- Arms: Slightly away (15-20°) from body
+- Head: Almost flat (0-5°), chin tucked slightly
 
 ***How to Hold the Pose:***
 - "Lie on your back with your knees bent and feet flat on the floor, hip-width apart"
