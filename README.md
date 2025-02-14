@@ -3,11 +3,11 @@
 
 **1.VRIKSHASANA(Tree Pose)**
 ***Critical Angles:***
-*Standing Leg (Knee Joint): ~180° (straight but not locked) 
-*Raised Leg (Knee Bend): ~45°-60° (depending on flexibility)
-*Hip Angle (Raised Leg to Standing Leg): ~90°
-*Arms (Elbows Extended Above Head): ~180° (fully extended)
-*Spine Angle: ~0° (should be straight, no forward or backward bending)
+1.Standing Leg (Knee Joint): ~180° (straight but not locked) 
+2.Raised Leg (Knee Bend): ~45°-60° (depending on flexibility)
+3.Hip Angle (Raised Leg to Standing Leg): ~90°
+4.Arms (Elbows Extended Above Head): ~180° (fully extended)
+5.Spine Angle: ~0° (should be straight, no forward or backward bending)
 
 ***Simple Instructions to Hold the Pose:***
 
