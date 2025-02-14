@@ -49,3 +49,21 @@
 - Hold the pose for a few breaths before slowly lowering down.
 ************************************************************************
 
+**4.Bridge Pose (Setu Bandha Sarvangasana)**
+**Critical Angles:**
+Knees: 90° (like sitting in a chair)
+Back lift: 30-45° (like a bridge going up)
+Feet: Flat on ground, hip-width apart
+Arms: Slightly away (15-20°) from body
+Head: Almost flat (0-5°), chin tucked slightly
+
+**How to Hold the Pose:**
+- "Lie on your back with your knees bent and feet flat on the floor, hip-width apart"
+- "Place your arms beside your body, palms facing down"
+- "Press your feet and arms firmly into the ground"
+- "Lift your hips up toward the ceiling"
+- "Keep your thighs parallel to each other"
+- "Roll your shoulders underneath to lift the chest higher"
+- "Hold this position and breathe deeply"
+- "To release, slowly lower your spine back to the mat
+************************************************************************
