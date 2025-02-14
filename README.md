@@ -2,7 +2,7 @@
 **HATHA YOGA**
 
 **1.VRIKSHASANA(Tree Pose)**
-***Critical Angles:**
+- ***Critical Angles:**
 - Standing Leg (Knee Joint): ~180° (straight but not locked) 
 - Raised Leg (Knee Bend): ~45°-60° (depending on flexibility)
 - Hip Angle (Raised Leg to Standing Leg): ~90°
@@ -20,7 +20,7 @@
 
 ***********************************************************************
 **2.Warrior II Pose (Virabhadrasana II)**
-***Critical Angles:***
+- ***Critical Angles:***
 - Front knee bend: ~90° (aligned over the ankle)
 - Back leg straight: ~180°
 - Hip angle: ~90° (open to the side)
@@ -36,13 +36,13 @@
 ************************************************************************
 
 **Locust Pose (Salabhasana)**
-**Critical Angles:**
+- ***Critical Angles:***
 - Leg Lift Angle: ~30°-45° from the floor
 - Arm Lift Angle: ~10°-20° from the body
 - Back Arch Angle: ~15°-30° (depends on flexibility)
 - Neck Angle: ~0° (should be in line with the spine)
 
-**How to Hold the Pose:**
+***How to Hold the Pose:***
 - Lie flat on your stomach with your arms by your sides.
 - Inhale and lift your legs, chest, and arms off the ground.
 - Keep your gaze forward, and engage your back and core muscles.
@@ -50,14 +50,14 @@
 ************************************************************************
 
 **4.Bridge Pose (Setu Bandha Sarvangasana)**
-**Critical Angles:**
+- ***Critical Angles:***
 Knees: 90° (like sitting in a chair)
 Back lift: 30-45° (like a bridge going up)
 Feet: Flat on ground, hip-width apart
 Arms: Slightly away (15-20°) from body
 Head: Almost flat (0-5°), chin tucked slightly
 
-**How to Hold the Pose:**
+***How to Hold the Pose:***
 - "Lie on your back with your knees bent and feet flat on the floor, hip-width apart"
 - "Place your arms beside your body, palms facing down"
 - "Press your feet and arms firmly into the ground"
