@@ -1,3 +1,12 @@
+
+1.VRIKSHASANA
+2.Warrior II Pose (Virabhadrasana II)
+3.uttasana
+4.adhomukha(downward dog)
+5.setubandhasana
+6.salabhasana
+                                                  
+                                                  
                                                   ***Critical Angles***
 **HATHA YOGA**
 
